@@ -3,6 +3,6 @@
 <title> page2 </title>
 </head>
 <body>
-<h2> good evening </h2>
+<?php echo "mohan sai"?>
 </body>
 </html>
